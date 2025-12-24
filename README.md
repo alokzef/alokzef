@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text=WELCOME%20TO%20MY%20PROFILE&width=800&height=150&font=Orbitron&fontWeight=bold&fontSize=40&border=5&borderColor=ff0000" />
 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&bg_color=30,e96443,904e95&border_color=e96443&border_radius=20" width="400" />
 # Hi there, I'm Alok! 👋
 
 ### 👨‍💻 About Me

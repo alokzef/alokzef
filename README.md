@@ -1,10 +1,7 @@
 <p align="center">
-  # Hi there, I'm Alok! 👋
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text=WELCOME%20TO%20MY%20PROFILE&width=800&height=150&font=Orbitron&fontWeight=bold&fontSize=40&border=5&borderColor=ff0000" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text=WELCOME&width=800&height=150&font=Orbitron&fontWeight=bold&fontSize=40&border=5&borderColor=ff0000" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=alokzef&show_icons=true&theme=transparent&bg_color=30,e96443,904e95&border_color=e96443&border_radius=20" width="400" />
 <p align="center">
-  # Hi there, I'm Alok! 👋
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Building+cool+stuff+in+JS">
 </p>
 # Hi there, I'm Alok! 👋

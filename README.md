@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Alok! 👋
 
-<!--
-**alokzef/alokzef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+I am a passionate **Full-Stack Developer** dedicated to building clean, functional, and user-friendly applications. I enjoy the process of turning a complex problem into a simple, elegant piece of code. 
 
-Here are some ideas to get you started:
+- 🔭 **Currently working on:** Enhancing my skills in modern web frameworks and cloud technologies.
+- 🌱 **Learning:** Advanced Backend Architecture and System Design.
+- 👯 **Looking to collaborate on:** Open-source projects and innovative web applications.
+- 💬 **Ask me about:** React, Node.js, or why I love clean code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+| Frontend | Backend | Tools |
+| HTML5, CSS3, JS | Node.js, Express | Git & GitHub |
+| React.js, Tailwind | PostgreSQL, MongoDB | VS Code, Postman |
+
+---
+
+### 📊 GitHub Stats
+![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alokzef&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alokzef&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect!
+- **LinkedIn:** [alok-kumar-a980a9295](https://www.linkedin.com/in/alok-kumar-a980a9295)
+- **Portfolio:** [Coming Soon]

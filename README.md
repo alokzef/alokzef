@@ -26,7 +26,7 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
 ---
 
 ### 📊 GitHub Stats
-![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alokzef&show_icons=true&theme=radical)
+![Metrics](github-metrics.svg)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alokzef&layout=compact&theme=vision-friendly-dark)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=alokzef&theme=dark)
 

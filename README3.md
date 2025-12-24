@@ -1,15 +1,14 @@
-<table align="center" style="border-collapse: collapse; border: 0;">
-  <tr>
-    <td align="center" style="background-color: #B39DDB; padding: 5px; border-radius: 10px;">
-      <div style="background-color: #ffffff; padding: 20px; border-radius: 8px;">
-        
-        <h2 style="margin: 0;">Hey, I'm a Developer!</h2>
-        <p>This box has a pastel purple border.</p>
-        
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./neon_header.svg" width="100%" alt="Neon Header" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F3FF&background=00000000&center=true&vCenter=true&width=435&lines=Coding+in+the+dark...;Building+Cyberpunk+UIs;Coffee+is+my+fuel" alt="Typing SVG" />
+</div>
+
+---
 <div align="center">
   <h1 align="center">Hi there, I'm <a href="https://github.com/YOUR_USERNAME">Your Name</a> 🌸</h1>
   

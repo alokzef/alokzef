@@ -17,25 +17,7 @@
       fill: #bc13fe; /* Neon Purple */
       letter-spacing: 2px;
     }
-
-    /* The Animated Border Path */
-    .neon-border {
-      fill: none;
-      stroke-width: 4;
-      stroke: url(#neonGradient);
-      rx: 10; /* Rounded Corners */
-      stroke-dasharray: 300 1000; /* Create the "Laser" segment */
-      stroke-dashoffset: 0;
-      animation: snake 3s linear infinite;
-      filter: drop-shadow(0 0 5px #00f3ff); /* Border Glow */
-    }
-
-    /* Animation: Moves the dash around the rectangle */
-    @keyframes snake {
-      to {
-        stroke-dashoffset: -1300; 
-      }
-    }
+    
   </style>
 
   <defs>
@@ -48,9 +30,9 @@
   <rect x="2" y="2" width="796" height="196" class="neon-border" />
 
   <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" class="title">
-    &lt;SYSTEM_ONLINE /&gt;
+    &lt;WELCOME!! /&gt;
   </text>
   <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" class="subtitle">
-    FULL STACK DEVELOPER
+    To My Profile
   </text>
 </svg>

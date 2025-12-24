@@ -35,3 +35,14 @@ I am a passionate developer who enjoys building efficient and scalable web appli
 
 ---
 *"Code is like humor. When you have to explain it, it’s bad."*
+
+*"Code is like humor. When you have to explain it, it’s bad."*
+
+## 📊 My GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=alokzef&show_icons=true&theme=radical" alt="Alok's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokzef&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---

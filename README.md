@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text='WELCOME'&width=800&height=150&font=Orbitron&fontWeight=bold&fontSize=40&border=5&borderColor=ff0000" />
-  
+<div align="center">
+  <img src="./dynamic_header.svg" width="100%" alt="Animated Header" />
+</div>
 # Hi there, I'm Alok! 👋
 </p>
 ### 👨‍💻 About Me

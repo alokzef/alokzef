@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="./dynamic_header.svg" width="100%" alt="Animated Header" />
+  <img src="./neon_header.svg" width="100%" alt="Neon Header" />
 </div>
-# Hi there, I'm Alok! 👋
-</p>
+
+---
+
 ### 👨‍💻 About Me
 I am a passionate **Full-Stack Developer** dedicated to building clean, functional, and user-friendly applications. I enjoy the process of turning a complex problem into a simple, elegant piece of code. 
 
@@ -10,6 +11,8 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
 - 🌱 **Learning:** Advanced Backend Architecture and System Design.
 - 👯 **Looking to collaborate on:** Open-source projects and innovative web applications.
 - 💬 **Ask me about:** React, Node.js, or why I love clean code.
+
+---
 
 ## 🛠 Tech Stack
 

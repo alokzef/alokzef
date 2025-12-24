@@ -1,19 +1,12 @@
 <p align="center">
+  # Hi there, I'm Alok! 👋
   <img src="https://svg-banners.vercel.app/api?type=glitch&text=WELCOME%20TO%20MY%20PROFILE&width=800&height=150&font=Orbitron&fontWeight=bold&fontSize=40&border=5&borderColor=ff0000" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=alokzef&show_icons=true&theme=transparent&bg_color=30,e96443,904e95&border_color=e96443&border_radius=20" width="400" />
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Header](https://capsule-render.vercel.app/api?type=glass&color=auto&height=200&section=header&text=Hello%20World&fontSize=70&animation=fadeIn)
-![snake svg](https://raw.githubusercontent.com/alokzef/alokzef/output/github-contribution-grid-snake.svg)
 <p align="center">
+  # Hi there, I'm Alok! 👋
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Building+cool+stuff+in+JS">
 </p>
-<a href="https://linkedin.com/in/alok-kumar-a980a9295">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com" style="border-radius: 50px;"/>
-</a>
-
 # Hi there, I'm Alok! 👋
 
 ### 👨‍💻 About Me

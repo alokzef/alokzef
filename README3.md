@@ -8,9 +8,7 @@
 
 ---
 <div align="center">
-  <h1 align="center">Hi there, I'm <a href="https://github.com/YOUR_USERNAME">Your Name</a> 🌸</h1>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9E77ED&background=00000000&center=true&vCenter=true&width=435&lines=Creative+Developer;UI%2FUX+Enthusiast;Coffee+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F3FF&background=00000000&center=true&vCenter=true&width=435&lines=Coding+in+the+dark...;Building+Cyberpunk+UIs;Coffee+is+my+fuel" alt="Typing SVG" />
 </div>
 
 ---

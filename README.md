@@ -1,11 +1,8 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text=WELCOME&width=800&height=150&font=Orbitron&fontWeight=bold&fontSize=40&border=5&borderColor=ff0000" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Building+cool+stuff+in+JS">
-</p>
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text='WELCOME'&width=800&height=150&font=Orbitron&fontWeight=bold&fontSize=40&border=5&borderColor=ff0000" />
+  
 # Hi there, I'm Alok! 👋
-
+</p>
 ### 👨‍💻 About Me
 I am a passionate **Full-Stack Developer** dedicated to building clean, functional, and user-friendly applications. I enjoy the process of turning a complex problem into a simple, elegant piece of code. 
 

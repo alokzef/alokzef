@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text=WELCOME%20TO%20MY%20PROFILE&width=800&height=150&font=Orbitron&fontWeight=bold&fontSize=40&border=5&borderColor=ff0000" />
+</p>
 # Hi there, I'm Alok! 👋
 
 ### 👨‍💻 About Me
@@ -23,9 +26,8 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
 
 ### 📊 GitHub Stats
 ![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alokzef&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alokzef&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=alokzef&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=alokzef&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alokzef&layout=compact&theme=vision-friendly-dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=alokzef&theme=dark)
 
 ---
 

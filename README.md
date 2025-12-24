@@ -2,8 +2,6 @@
   <img src="./neon_header.svg" width="100%" alt="Neon Header" />
 </div>
 
----
-
 ### 👨‍💻 About Me
 I am a passionate **Full-Stack Developer** dedicated to building clean, functional, and user-friendly applications. I enjoy the process of turning a complex problem into a simple, elegant piece of code. 
 

@@ -4,9 +4,7 @@
 
 <br />
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F3FF&background=00000000&center=true&vCenter=true&width=435&lines=Coding+in+the+dark...;Building+Cyberpunk+UIs;Coffee+is+my+fuel" alt="Typing SVG" />
-</div>
+
 
 ---
 <div align="center">

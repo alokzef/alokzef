@@ -30,12 +30,6 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=radical" />
-</a>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark&hide_border=true&card_width=510&background=EB545400)](https://git.io/streak-stats)
-
 ---
 
 ### 📫 Let's Connect!

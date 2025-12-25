@@ -34,32 +34,17 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
     <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark" />
 </a>
 
-![Retro Counter](https://retro-counter.onrender.com/count/alokzef)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/wakatime/?username=alokzef&layout=compact&theme=vision-friendly-dark)
 
-![Green Retro Counter](https://retro-counter.onrender.com/count/alokzef?theme=green)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=alokzef&layout=compact&theme=vision-friendly-dark)
 
-<div align="center">
-  <h3>Player 1 Ready</h3>
-  <img src="https://count.getloli.com/get/@YOUR_alokzef?theme=rule34" alt="Gamer Counter" />
-</div>
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/index/?username=alokzef&layout=compact&theme=vision-friendly-dark)
 
-![Achievement](https://minecraft-api.com/api/achievements/grass_block/Achievement+Get!/Viewed+Profile)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/gist/?username=alokzef&layout=compact&theme=vision-friendly-dark)
 
-<div align="center">
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/status/up/?username=alokzef&layout=compact&theme=vision-friendly-dark)
 
-  <img src="https://minecraft-api.com/api/achievements/diamond_sword/Quest+Completed/Visited+My+Profile" width="400" />
-  <br/><br/>
-
-  <img src="https://count.getloli.com/get/@YOUR_alokzef?theme=gelbooru" alt="Minecraft Counter" />
-  
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/Minecraft-Java_Edition-008542?style=for-the-badge&logo=minecraft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mode-Survival-AA0000?style=for-the-badge&logo=rss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Server-Online-55FF55?style=for-the-badge&logo=serverless&logoColor=white" />
-
-</div>
-
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/status/pat-info/?username=alokzef&layout=compact&theme=vision-friendly-dark)
 
 ---
 

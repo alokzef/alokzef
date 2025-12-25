@@ -27,10 +27,7 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
 
 ### 📊 GitHub Stats
 ![Metrics](github-metrics.svg)
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=alokzef&theme=radical&hide_border=true&card_width=510&background=EB545400)](https://git.io/streak-stats)
 
 ---
 

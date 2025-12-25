@@ -28,26 +28,11 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
 ### 📊 GitHub Stats
 ![Metrics](github-metrics.svg)
 
-<div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=alokzef&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
-  <br/>
-  <br/>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokzef&layout=compact&theme=dracula" />
-  </a>
-
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dracula" />
-  </a>
-
-</div>
-
-
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alokzef&layout=compact&theme=vision-friendly-dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=alokzef&theme=dark)
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark" />
+</a>
 
 ---
 

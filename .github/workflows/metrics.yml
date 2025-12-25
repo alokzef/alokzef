@@ -19,4 +19,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
+          config_theme: dark
+          config_colors: orange
           

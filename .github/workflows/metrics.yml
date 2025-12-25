@@ -20,8 +20,8 @@ jobs:
           template: classic
           config_display: large
           extras_css: | 
-          h1, h2, h3, h4, h5, h6 { color: "#58a6ff" } /* GitHub Blue */
-          .field { color: "#c9d1d9" } /* GitHub Dark Text */
+          h1, h2, h3, h4, h5, h6 color: "#58a6ff"
+          .field color: "#c9d1d9"
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
           # --- Plugin: Languages ---

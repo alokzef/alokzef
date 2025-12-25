@@ -34,7 +34,7 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
     <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark" />
   </a>
 
-![Pixel Counter](https://komarev.com/ghpvc/?username=alokzef&style=pixel&color=blue)
+![Pixel Profile](https://pixel-profile.vercel.app/api/github-stats?username=alokzef&theme=dark&pixelate_avatar=true)
 
 ---
 

@@ -34,9 +34,13 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
   
 ![Moe Counter](https://count.getloli.com/get/@alokzef?theme=rule34)
 
-![View Counter](https://views.igorkowalczyk.dev/api/badge/alokzef?label=Project%20Views&theme=dracula&format=short)
+![Pixel Counter](https://komarev.com/ghpvc/?username=alokzef&style=pixel&color=blue)
 
-  
+![Gelbooru Counter](https://count.getloli.com/get/@alokzef?theme=gelbooru)
+
+![Asoul Counter](https://count.getloli.com/get/@alokzef?theme=asoul)
+
+![Moebooru Counter](https://count.getloli.com/get/@alokzef?theme=moebooru)
 
 ---
 

@@ -28,9 +28,7 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
 ### 📊 GitHub Stats
 ![Metrics](github-metrics.svg)
 
-<a href="https://git.io/streak-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark)](https://git.io/streak-stats)
 
 ---
 

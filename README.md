@@ -35,20 +35,19 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
   </a>
 
 <div align="center">
+  
+  <img src="github-metrics.svg" alt="Metrics" width="100%" />
+  
+  <br/><br/>
 
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=alokzef&theme=crt&pixelate_avatar=true" alt="Pixel Stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alokzef&layout=compact&theme=vision-friendly-dark" />
+  </a>
+  
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark" />
+  </a>
 
-  <br/>
-  <br/>
-
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falokzef&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=true" alt="Visitor Count" />
-
-</div>
-
-![Retro Terminal Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falokzef&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=true)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/QgemnG8UzsHFs/giphy.gif" width="600" />
 </div>
 
 

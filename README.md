@@ -29,7 +29,7 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
 ![Metrics](github-metrics.svg)
 
 <a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=alokzef&theme=dark/>
+<img src="https://streak-stats.demolab.com?user=alokzef&theme=dark" />
 </a>
 
 ---

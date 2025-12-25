@@ -29,7 +29,7 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
 ![Metrics](github-metrics.svg)
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark" />
+    <img height="180" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark" />
 </a>
 
 ---

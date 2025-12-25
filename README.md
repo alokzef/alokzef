@@ -32,8 +32,6 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark" />
 </a>
 
-![GitHub Streak]("https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=neon-dark&hide_border=true&card_width=510&background=EB545400)](https://git.io/streak-stats)
-
 ---
 
 ### 📫 Let's Connect!

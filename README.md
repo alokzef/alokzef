@@ -34,6 +34,33 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
     <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark" />
 </a>
 
+![Retro Counter](https://retro-counter.onrender.com/count/alokzef)
+
+![Green Retro Counter](https://retro-counter.onrender.com/count/alokzef?theme=green)
+
+<div align="center">
+  <h3>Player 1 Ready</h3>
+  <img src="https://count.getloli.com/get/@YOUR_alokzef?theme=rule34" alt="Gamer Counter" />
+</div>
+
+![Achievement](https://minecraft-api.com/api/achievements/grass_block/Achievement+Get!/Viewed+Profile)
+
+<div align="center">
+
+  <img src="https://minecraft-api.com/api/achievements/diamond_sword/Quest+Completed/Visited+My+Profile" width="400" />
+  <br/><br/>
+
+  <img src="https://count.getloli.com/get/@YOUR_alokzef?theme=gelbooru" alt="Minecraft Counter" />
+  
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Minecraft-Java_Edition-008542?style=for-the-badge&logo=minecraft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mode-Survival-AA0000?style=for-the-badge&logo=rss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Server-Online-55FF55?style=for-the-badge&logo=serverless&logoColor=white" />
+
+</div>
+
+
 ---
 
 ### 📫 Let's Connect!

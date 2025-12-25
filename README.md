@@ -27,20 +27,14 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
 
 ### 📊 GitHub Stats
 ![Metrics](github-metrics.svg)
+
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alokzef&layout=compact&theme=vision-friendly-dark)
+
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark" />
   </a>
-  
-![Moe Counter](https://count.getloli.com/get/@alokzef?theme=rule34)
 
 ![Pixel Counter](https://komarev.com/ghpvc/?username=alokzef&style=pixel&color=blue)
-
-![Gelbooru Counter](https://count.getloli.com/get/@alokzef?theme=gelbooru)
-
-![Asoul Counter](https://count.getloli.com/get/@alokzef?theme=asoul)
-
-![Moebooru Counter](https://count.getloli.com/get/@alokzef?theme=moebooru)
 
 ---
 

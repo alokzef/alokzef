@@ -34,14 +34,6 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
     <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark" />
 </a>
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/wakatime/?username=alokzef&layout=compact&theme=vision-friendly-dark)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=alokzef&layout=compact&theme=vision-friendly-dark)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/index/?username=alokzef&layout=compact&theme=vision-friendly-dark)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/gist/?username=alokzef&layout=compact&theme=vision-friendly-dark)
-
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/status/up/?username=alokzef&layout=compact&theme=vision-friendly-dark)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/status/pat-info/?username=alokzef&layout=compact&theme=vision-friendly-dark)

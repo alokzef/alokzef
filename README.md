@@ -30,23 +30,18 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=alokzef&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alokzef&layout=compact&theme=vision-friendly-dark)
 
   <br/>
   <br/>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR-USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
+  
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dracula" />
+    <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark" />
   </a>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falokzef&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
-
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alokzef&layout=compact&theme=vision-friendly-dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=alokzef&theme=dark)
 
 ---
 

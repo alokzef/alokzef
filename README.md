@@ -30,27 +30,9 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alokzef&layout=compact&theme=vision-friendly-dark)
 
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark" />
-  </a>
-
-<div align="center">
-
-![Metrics](github-metrics.svg)
-
-<br/>
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alokzef&layout=compact&theme=vision-friendly-dark)
-
-<br/>
-
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark" />
+    <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark" />
 </a>
-
-</div>
-
-
 
 ---
 

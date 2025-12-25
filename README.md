@@ -35,20 +35,21 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
   </a>
 
 <div align="center">
-  
-  <img src="github-metrics.svg" alt="Metrics" width="100%" />
-  
-  <br/><br/>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alokzef&layout=compact&theme=vision-friendly-dark" />
-  </a>
-  
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark" />
-  </a>
+![Metrics](github-metrics.svg)
+
+<br/>
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alokzef&layout=compact&theme=vision-friendly-dark)
+
+<br/>
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark" />
+</a>
 
 </div>
+
 
 
 ---

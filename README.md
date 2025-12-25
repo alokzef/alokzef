@@ -32,7 +32,7 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark&hide_border=true&card_width=510&background=EB545400" />
 </a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark)](https://git.io/streak-stats)
 
 ---
 

@@ -16,8 +16,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: alokzef
+          template: repository
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Kolkata
-          config_theme: dark
-          config_colors: orange
-          
+          config_timezone: Asia/Kolkata        

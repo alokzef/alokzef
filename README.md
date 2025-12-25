@@ -31,9 +31,12 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark" />
   </a>
-<a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falokzef&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" />
-  </a>
+  
+![Moe Counter](https://count.getloli.com/get/@alokzef?theme=rule34)
+
+![View Counter](https://views.igorkowalczyk.dev/api/badge/alokzef?label=Project%20Views&theme=dracula&format=short)
+
+  
 
 ---
 

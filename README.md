@@ -1,5 +1,6 @@
 <div align="center">
   <img src="./neon_header.svg" width="100%" alt="Neon Header" />
+</div>
 
 ### 👨‍💻 About Me
 I am a passionate **Full-Stack Developer** dedicated to building clean, functional, and user-friendly applications. I enjoy the process of turning a complex problem into a simple, elegant piece of code. 
@@ -27,8 +28,6 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
 ### 📊 GitHub Stats
 ![Metrics](github-metrics.svg)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alokzef&layout=compact&theme=vision-friendly-dark)
-
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark" />
 </a>
@@ -38,5 +37,3 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
 ### 📫 Let's Connect!
 - **LinkedIn:** [alok-kumar-a980a9295](https://www.linkedin.com/in/alok-kumar-a980a9295)
 - **Portfolio:** [Coming Soon]
-
-</div>

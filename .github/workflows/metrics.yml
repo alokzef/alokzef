@@ -16,6 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           #Options
+          filename: ./images/metrics.svg
           user: alokzef
           template: classic
           base: header, activity, community, repositories, metadata

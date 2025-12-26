@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./neon_header.svg" width="100%" alt="Neon Header" />
+  <img src="./images/neon_header.svg" width="100%" alt="Neon Header" />
 </div>
 
 ### 👨‍💻 About Me
@@ -26,9 +26,9 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
 ---
 
 ### 📊 GitHub Stats
-![Metrics](github-metrics.svg)
+![Metrics](./images/github-metrics.svg)
 
-![My GitHub Streak](./streak.svg)
+![My GitHub Streak](./images/streak.svg)
 
 ---
 

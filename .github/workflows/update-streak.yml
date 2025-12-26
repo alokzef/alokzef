@@ -1,0 +1,26 @@
+name: Update Streak SVG
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows you to run it manually from the Actions tab
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Crucial: allows the action to push changes to your repo
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download Streak Image
+        run: |
+          curl -o streak.svg "https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark"
+
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update streak svg"
+          file_pattern: streak.svg

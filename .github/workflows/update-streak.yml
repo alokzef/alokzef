@@ -13,14 +13,18 @@ jobs:
       contents: write # Crucial: allows the action to push changes to your repo
 
     steps:
+    
       - uses: actions/checkout@v4
+      
+      - name: Create images directory
+        run: mkdir -p images
 
       - name: Download Streak Image
         run: |
-          curl -o streak.svg "https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark"
+          curl -o images/streak.svg "https://github-readme-streak-stats.herokuapp.com/?user=alokzef&theme=dark"
 
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update streak svg"
-          file_pattern: streak.svg
+          commit_message: "chore: update streak svg in images folder"
+          file_pattern: images/streak.svg

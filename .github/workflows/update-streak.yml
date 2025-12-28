@@ -22,5 +22,7 @@ jobs:
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update streak svg in images folder"
+          commit_message: "Update images/streak.svg"
           file_pattern: images/streak.svg
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com

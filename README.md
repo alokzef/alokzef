@@ -28,10 +28,10 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
 ### 📊 GitHub Stats
 ![Metrics](./images/metrics.svg)
 
-![My GitHub Streak](./images/streak.svg)
-
 ---
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [alok-kumar-a980a9295](https://www.linkedin.com/in/alok-kumar-a980a9295)
 - **Portfolio:** [Coming Soon]
+
+---

@@ -31,7 +31,7 @@ I am a passionate **Full-Stack Developer** dedicated to building clean, function
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [alok-kumar-a980a9295](https://www.linkedin.com/in/alok-kumar-a980a9295)
+- **LinkedIn:** [alokzef](https://www.linkedin.com/in/alok-kumar-a980a9295)
 - **Portfolio:** [Coming Soon]
 
 ---
